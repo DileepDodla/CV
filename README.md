@@ -1,2 +1,2 @@
 # CV
-dileepdodla.github.io/CV
+https://dileepdodla.github.io/CV
